@@ -5,6 +5,7 @@ kids_height_requirement = 60
 family_height_requirement = 120
 white_knuckle_height_requirement = 180
 permited_parks = ["parkA", "parkB", "parkC"]
+
 while True:
     height = input("Please provide your height: ")
     park = input("Park choice: parkA, parkB, parkC. \n")
