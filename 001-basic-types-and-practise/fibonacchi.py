@@ -1,11 +1,11 @@
-def run_calculation(x, y, b, l):
-    b = b + 1
+def run_calculation(x, y, i, l):
+    i = i + 1
     z = x + y
     print(f'{x}, {y} : {z}')
-    if b == l:
+    if i == l:
         print(f'completed sequence of lenght: {l}')
     else:
-        run_calculation(y, z, b, l)
+        run_calculation(y, z, i, l)
 
 l = int(input("How long do you want the sequence to be? \n"))
 
