@@ -1,0 +1,13 @@
+Classes - 
+tickets, 
+    decrementing tickets per sale,
+prices, 
+    ticket prices to increase with increasing sales,
+venue, 
+events, 
+    I want to be able to cancel or remove events or tickets
+customers,
+    I want lists of customers,
+
+* use the first 10 minutes to plan, EPIC, user stories
+ 
